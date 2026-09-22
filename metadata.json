@@ -1,0 +1,6 @@
+{
+  "name": "Leaky Bucket 3D Visualizer",
+  "description": "Interactive 3D laboratory visualizer and line-by-line C code explainer for the Computer Networks Leaky Bucket algorithm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
